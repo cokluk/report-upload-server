@@ -6,6 +6,8 @@ If you have let's encyrpt on your web server, you can directly define an ssl cer
 
 Note: We do not provide support for this, as it is an extra preference, you will have to do it yourself.
 
+Tested languages of versions
 - PHP Version - 8.1.10
 - Python Version - 3.12.0
 - Node Version - v20.9.0
+- FiveM Embeded Version (build 8981)
