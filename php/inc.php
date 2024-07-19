@@ -3,9 +3,9 @@
 if($use_domain) { $host = $domain; }
 
 if($ssl) {
-    $host = "https://".$host;
+    $host = "https://".$host."/";
 } else {
-    $host = "http://".$host;
+    $host = "http://".$host."/";
 }
 
 if(isset($_FILES)) {
