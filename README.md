@@ -31,3 +31,15 @@ Tested languages of versions
 | Php | index.php | 
 | Js | index.js | 
 | Python | config.ini | 
+
+# Python installation
+
+    pip install -r requirements.txt
+    
+    python server.py
+
+# Javascript installation
+
+    npm install
+    
+    node index.js
