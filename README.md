@@ -8,3 +8,4 @@ Note: We do not provide support for this, as it is an extra preference, you will
 
 - PHP Version - 8.1.10
 - Python Version - 3.12.0
+- Node Version - v20.9.0
