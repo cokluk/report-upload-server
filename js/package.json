@@ -1,0 +1,15 @@
+{
+  "name": "report-upload-server",
+  "version": "1.0.0",
+  "description": "Host your upload server like discord webhook",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "git": "https://github.com/cokluk/report-upload-server",
+  "author": "s4levelup",
+  "license": "ISC",
+  "dependencies": {
+    "formidable": "^2.1.1"
+  }
+}
