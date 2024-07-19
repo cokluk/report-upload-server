@@ -34,12 +34,27 @@ Tested languages of versions
 
 # Python installation
 
-    pip install -r requirements.txt
+`pip install -r requirements.txt`
     
-    python server.py
+`python server.py`
 
 # Javascript installation
 
-    npm install
+`npm install`
     
-    node index.js
+`node index.js`
+
+For other versions, it will not require extra installation and will work as run at run.
+
+If you have set your webhook link with the ip address of your server.
+
+`http://127.0.0.1/`
+
+as ‘subfolder’. If you have assigned it to a subfolder, add a link to the subfolder. 
+
+`http://127.0.0.1/uploads, http://127.0.0.1/subfoldername `
+
+Like this, if you want to do them with your domain address in the same way.
+
+`https://example.com & (if you install in subfolder) https://example.com/subfoldername`
+
